@@ -1,0 +1,2 @@
+# Airport-Management-Database
+This repository contains details of a database to record various entities like airport, airlines, aircraft, flight and its scheduling, passengers and the relationships among these entities like arrival and departure airport of a flight, the airlines to which a flight belongs to, flight booked by a passenger etc. This database also includes the baggage history of individual passenger, pilot detail and their relationship to particular flight. 
